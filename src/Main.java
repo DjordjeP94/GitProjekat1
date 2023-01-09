@@ -100,5 +100,8 @@ public class Main {
             System.out.println("Ostatak je manji od 1000");
         }
 
+
+
+        
     }
 }
